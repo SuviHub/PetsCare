@@ -24,7 +24,7 @@ Python 3.8 - 3.12 (Streamlit doesn't support Python 3.13 yet)
 4️⃣ Install Dependencies
 Streamlit
 
-5️⃣ Run the Application
+5️⃣ Run the Application  
 python -m streamlit run pet_day.py
 
 ## To Login
@@ -32,7 +32,9 @@ find the 'user credentials' array in the code and update them accordingly to log
 
 ## 📸 Screenshots
 
-![Image](https://github.com/user-attachments/assets/108dc04e-f60e-46f2-beda-57d52d47ae32)
+![Image](https://github.com/user-attachments/assets/108dc04e-f60e-46f2-beda-57d52d47ae32)  
+  
+![Image](https://github.com/user-attachments/assets/0689666f-a896-4b2b-9614-4d714eb9ed4f)
 
 ## 🌟 Show Your Support
 If you enjoy these games, don't forget to give the repository a star! ⭐
