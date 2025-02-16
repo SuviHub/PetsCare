@@ -32,7 +32,7 @@ find the 'user credentials' array in the code and update them accordingly to log
 
 ## 📸 Screenshots
 
-Add some screenshots of your app here
+![Image](https://github.com/user-attachments/assets/108dc04e-f60e-46f2-beda-57d52d47ae32)
 
 ## 🌟 Show Your Support
 If you enjoy these games, don't forget to give the repository a star! ⭐
