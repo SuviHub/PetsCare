@@ -39,4 +39,4 @@ find the 'user credentials' array in the code and update them accordingly to log
 ![Image](https://github.com/user-attachments/assets/1279ef7a-a415-46a9-950e-fc203b8dd7c2)
 
 ## 🌟 Show Your Support
-If you enjoy these games, don't forget to give the repository a star! ⭐
+If you like the project, don't forget to give the repository a star! ⭐
